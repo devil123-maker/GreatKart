@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# Env files
+.env
+
+# VS Code
+.vscode/
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
